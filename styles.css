@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.class{
+	align-content="center";
+}
+.btn{
+	border-radius: 5px;
+}
